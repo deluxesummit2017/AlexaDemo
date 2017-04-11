@@ -10,8 +10,13 @@ Now that our environment is ready, we will create our first skill.
 ## Applying what we've learned
 In this section we will take what we've learned from the last section and apply it to a more complex Skill
 
+### Important Links
 
 https://developer.amazon.com
+
 https://stdlib.com/
+
 https://nodejs.org/en/
+
 https://hackernoon.com/build-an-alexa-skill-in-7-minutes-flat-with-node-js-and-stdlib-70611f58c37f
+
