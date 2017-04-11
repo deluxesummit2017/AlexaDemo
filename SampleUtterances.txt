@@ -1,0 +1,4 @@
+HelloWorld say hello
+StockMarket get the price for {company}
+StockMarket what's the stock price for {company}
+StockMarket get the stock price for {company}
