@@ -25,7 +25,7 @@ module.exports = function (slots, callback) {
 	  name = stock.name;
 
 	  //return string for Alexa to speak
-	  return callback(null, 'The last traded price for ' + name + ' is $' + value);
+	  return callback(null, 'The last traded price for ' + _____ + ' is $' + _____);
 	});
 
 	//map name to symbol
