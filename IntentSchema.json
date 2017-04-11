@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "HelloWorld"
+    },
+    {
+      "slots": [
+        {
+          "name": "company",
+          "type": "COMPANY"
+        }
+      ],
+      "intent": "StockMarket"
+    }
+  ]
+}
