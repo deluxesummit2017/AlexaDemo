@@ -1,0 +1,7 @@
+COMPANY
+
+deluxe corporation
+apple
+microsoft
+google
+amazon
