@@ -20,3 +20,4 @@ https://nodejs.org/en/
 
 https://hackernoon.com/build-an-alexa-skill-in-7-minutes-flat-with-node-js-and-stdlib-70611f58c37f
 
+https://www.youtube.com/watch?v=QxgdPI1B7rg
