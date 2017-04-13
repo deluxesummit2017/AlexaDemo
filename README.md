@@ -23,3 +23,5 @@ https://hackernoon.com/build-an-alexa-skill-in-7-minutes-flat-with-node-js-and-s
 https://www.youtube.com/watch?v=QxgdPI1B7rg
 
 https://echosim.io
+
+https://www.amazon.com/gp/help/customer/display.html?nodeId=201994280
